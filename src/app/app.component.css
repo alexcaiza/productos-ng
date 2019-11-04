@@ -1,0 +1,15 @@
+.wrapper{
+    width: 90%;
+    margin:10px auto;
+  }
+
+  .nav {
+
+       }
+.nav a{
+   color: white !important;
+   font-size: 10px !important;
+   }
+.nav li{
+   padding-right:5px;
+  }
